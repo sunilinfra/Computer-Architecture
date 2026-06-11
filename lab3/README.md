@@ -66,14 +66,13 @@ Decoders are widely used in:
 
 ### **3.1 Encoder Simulation**
 
-*Insert Encoder Waveform Screenshot Here*
+![Encoder Diagram](encoder.png)
 
 ---
 
 ### **3.2 Decoder Simulation**
 
-*Insert Decoder Waveform Screenshot Here*
-
+![Decoder Diagram](decoder.png)
 ---
 
 ### **Observation**

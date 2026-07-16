@@ -56,13 +56,9 @@ Where:
 
 ## Simulation Output
 
-### Simulation Result
-
-```markdown
 ![Simulation Result](Lab5.png)
-```
 
----
+
 
 ## Conclusion
 
